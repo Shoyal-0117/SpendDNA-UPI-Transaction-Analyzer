@@ -1,5 +1,3 @@
-# SpendDNA-UPI-Transaction-Analyzer
-💰 SpendDNA — Spotify Wrapped for your money. A Python-only engine that cleans messy UPI/bank statements, extracts vendors, categorizes spend, flags anomalies via z-score, and detects your spending personality. No ML, no regex, no matplotlib.
 # 💰 SpendDNA — Your Wallet's Year-End Story
 
 > Spotify Wrapped, but for your money. A from-scratch Python transaction-analytics
@@ -17,9 +15,15 @@
 
 ## 📸 Output Preview
 
-**Final Report —**
-![SpendDNA Report Part 1](assets\output(1).png)
-![SpendDNA Report Part 2](assets\output(2).png)
+**Final Report — Part 1**
+
+![SpendDNA Report Part 1](assets/output_1.png)
+
+**Final Report — Part 2**
+
+![SpendDNA Report Part 2](assets/output_2.png)
+
+---
 
 ## 🧠 What This Project Does
 
@@ -63,11 +67,12 @@ pandas-profiling/sweetviz, any ML/GenAI library, any external transaction datase
 ## 📂 Repo Structure
 
 ```
-spenddna/
-├── SpendDNA_ShoyalHaldar.ipynb     # main notebook
-├── rahul_transactions.csv          # synthetic dataset
+SpendDNA-UPI-Transaction-Analyzer/
+├── SPENDDNA_SHOYAL_HALDAR.ipynb     # main notebook
+├── rahul_transactions.csv           # synthetic dataset
 ├── assets/
-│   └── report_screenshot.png       # final report screenshot
+│   ├── output_1.png                 # final report screenshot (part 1)
+│   └── output_2.png                 # final report screenshot (part 2)
 └── README.md
 ```
 
