@@ -15,12 +15,9 @@
 
 ## 📸 Output Preview
 
-**Final Report — Part 1**
+**Final Report — **
 
 ![SpendDNA Report Part 1](assets/output_1.png)
-
-**Final Report — Part 2**
-
 ![SpendDNA Report Part 2](assets/output_2.png)
 
 ---
