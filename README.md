@@ -18,8 +18,8 @@
 ## 📸 Output Preview
 
 **Final Report —**
-![SpendDNA Report Part 1](assets/report_screenshot_1.png)
-![SpendDNA Report Part 2](assets/report_screenshot_2.png)
+![SpendDNA Report Part 1](assets\output(1).png)
+![SpendDNA Report Part 2](assets\output(2).png)
 
 ## 🧠 What This Project Does
 
